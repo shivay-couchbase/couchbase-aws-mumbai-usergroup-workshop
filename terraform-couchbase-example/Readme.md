@@ -1,5 +1,3 @@
----
-
 # Terraform Provider for Capella
 
 ## Prerequisites
@@ -168,7 +166,3 @@ Use standard Terraform commands to initialize and deploy the resources:
    ```bash
    terraform state list
    ```
-
----
-
-Feel free to adjust the formatting or add more details as needed!
